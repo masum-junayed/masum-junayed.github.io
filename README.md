@@ -12,3 +12,8 @@ Replace the existing files in the root of `masum-junayed.github.io` with:
 The supplied LaTeX CV is included in `assets/Masum_Shah_Junayed_CV.tex`.
 
 For a profile photo, replace `assets/profile-placeholder.svg` and update the `img src` in `index.html`.
+
+## Latest updates
+- Profile photo path: `assets/msj.jpg`
+- Google Scholar: https://scholar.google.com/citations?user=UIxndCUAAAAJ&hl=en
+- The previous LaTeX CV button in the hero section has been replaced with Google Scholar.
