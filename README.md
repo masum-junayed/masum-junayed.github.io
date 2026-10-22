@@ -1,21 +1,12 @@
 # Masum Shah Junayed — Academic Portfolio
 
-Updated from the October 2026 CV.
+Updated from the latest October 2026 CV.
 
-## Important
-The website expects your existing profile photo at:
+Highlights of this revision:
+- Expanded Research Interests into descriptive research-area cards
+- Updated research profile, projects, teaching interests, and technical skills
+- Rewrote Patents & Innovation section to clearly explain each patent and its research impact
+- Preserved the profile-photo path as `assets/msj.jpg`
+- Kept manuscripts under review and accepted-but-not-yet-published papers out of the Publication List, following the prior portfolio preference
 
-`assets/msj.jpg`
-
-If `msj.jpg` is already in the `assets` folder of your GitHub repository, keep it there.
-
-## Update the live GitHub Pages site
-Upload/replace:
-- `index.html`
-- `styles.css`
-- `script.js`
-
-You do not need to delete `assets/msj.jpg`.
-
-## Publication policy
-Following the previous portfolio preference, manuscripts that are Under Review and papers that are Accepted but not yet published are omitted from the public Publication List.
+To update GitHub Pages, replace `index.html`, `styles.css`, and `script.js` in the repository. Keep your existing `assets/msj.jpg`.
