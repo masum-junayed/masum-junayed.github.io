@@ -1,6 +1,5 @@
 # Masum Shah Junayed — Academic Portfolio
 
-Updated from the latest October 2026 CV.
 
 Highlights of this revision:
 - Expanded Research Interests into descriptive research-area cards
